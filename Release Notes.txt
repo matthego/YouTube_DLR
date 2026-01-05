@@ -1,3 +1,0 @@
-v 1.0 -> Original release
-v 1.1 -> updated yt-dlp to fix a 403 forbidden error when attempting to download videos and audio
-v 1.2 -> updated yt-dlp again to fix errors and added auto update feature 
