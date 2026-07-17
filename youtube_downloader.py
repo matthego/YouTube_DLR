@@ -1,3 +1,4 @@
+from packaging import version
 import tkinter as tk
 from tkinter import messagebox, filedialog
 from tkinter import ttk
@@ -25,13 +26,30 @@ def normalize_version(version_str):
 
 
 def update_yt_dlp():
-    """Update yt-dlp via pip inside the running Python environment."""
+    """Update yt-dlp via pip."""
     try:
-        python_exec = sys.executable
-        subprocess.run([python_exec, "-m", "pip", "install", "--upgrade", "yt-dlp"], check=True)
-        messagebox.showinfo("Update Complete", "yt-dlp has been updated.\nRestart the program.")
+        if getattr(sys, 'frozen', False):
+            # Running as PyInstaller EXE
+            python_exec = "python"
+        else:
+            # Running as normal Python script
+            python_exec = sys.executable
+
+        subprocess.run(
+            [python_exec, "-m", "pip", "install", "--upgrade", "yt-dlp"],
+            check=True
+        )
+
+        messagebox.showinfo(
+            "Update Complete",
+            "yt-dlp has been updated.\n\nPlease restart the program."
+        )
+
     except Exception as e:
-        messagebox.showerror("Update Failed", f"Could not update yt-dlp:\n{str(e)}")
+        messagebox.showerror(
+            "Update Failed",
+            f"Could not update yt-dlp:\n{str(e)}"
+        )
 
 
 def check_for_yt_dlp_update():
@@ -45,7 +63,7 @@ def check_for_yt_dlp_update():
             latest_raw = json.loads(url.read().decode())["info"]["version"]
             latest_ver = normalize_version(latest_raw)
 
-        if local_ver != latest_ver:
+        if version.parse(latest_raw) > version.parse(local_raw):
             answer = messagebox.askyesno(
                 "Update Available",
                 f"A new version of yt-dlp is available.\n\n"

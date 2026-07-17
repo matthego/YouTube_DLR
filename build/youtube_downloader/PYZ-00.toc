@@ -2820,9 +2820,9 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\downloader\\rtmp.py',
    'PYMODULE'),
-  ('yt_dlp.downloader.rtsp',
+  ('yt_dlp.downloader.soop',
    'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\downloader\\rtsp.py',
+   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\downloader\\soop.py',
    'PYMODULE'),
   ('yt_dlp.downloader.websocket',
    'C:\\Users\\Matt '
@@ -2908,10 +2908,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\agora.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.airtv',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\airtv.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.aitube',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\aitube.py',
@@ -2939,10 +2935,6 @@
   ('yt_dlp.extractor.alphaporno',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\alphaporno.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.alsace20tv',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\alsace20tv.py',
    'PYMODULE'),
   ('yt_dlp.extractor.altcensored',
    'C:\\Users\\Matt '
@@ -2980,10 +2972,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\amp.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.anchorfm',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\anchorfm.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.angel',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\angel.py',
@@ -3015,10 +3003,6 @@
   ('yt_dlp.extractor.applepodcasts',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\applepodcasts.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.appletrailers',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\appletrailers.py',
    'PYMODULE'),
   ('yt_dlp.extractor.archiveorg',
    'C:\\Users\\Matt '
@@ -3060,10 +3044,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\atscaleconf.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.atvat',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\atvat.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.audimedia',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\audimedia.py',
@@ -3084,17 +3064,9 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\audius.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.awaan',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\awaan.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.aws',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\aws.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.axs',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\axs.py',
    'PYMODULE'),
   ('yt_dlp.extractor.azmedien',
    'C:\\Users\\Matt '
@@ -3128,10 +3100,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\beacon.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.beatbump',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\beatbump.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.beatport',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\beatport.py',
@@ -3163,10 +3131,6 @@
   ('yt_dlp.extractor.bibeltv',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\bibeltv.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.bigflix',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\bigflix.py',
    'PYMODULE'),
   ('yt_dlp.extractor.bigo',
    'C:\\Users\\Matt '
@@ -3215,10 +3179,6 @@
   ('yt_dlp.extractor.bluesky',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\bluesky.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.bokecc',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\bokecc.py',
    'PYMODULE'),
   ('yt_dlp.extractor.bongacams',
    'C:\\Users\\Matt '
@@ -3296,14 +3256,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\c56.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.caffeinetv',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\caffeinetv.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.callin',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\callin.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.caltrans',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\caltrans.py',
@@ -3311,10 +3263,6 @@
   ('yt_dlp.extractor.cam4',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\cam4.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.camdemy',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\camdemy.py',
    'PYMODULE'),
   ('yt_dlp.extractor.camfm',
    'C:\\Users\\Matt '
@@ -3444,10 +3392,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\clipchamp.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.clippit',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\clippit.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.cliprs',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\cliprs.py',
@@ -3500,10 +3444,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\condenast.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.contv',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\contv.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.corus',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\corus.py',
@@ -3527,6 +3467,10 @@
   ('yt_dlp.extractor.craftsy',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\craftsy.py',
+   'PYMODULE'),
+  ('yt_dlp.extractor.croatianfilm',
+   'C:\\Users\\Matt '
+   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\croatianfilm.py',
    'PYMODULE'),
   ('yt_dlp.extractor.crooksandliars',
    'C:\\Users\\Matt '
@@ -3672,10 +3616,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\dreisat.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.drooble',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\drooble.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.dropbox',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\dropbox.py',
@@ -3699,10 +3639,6 @@
   ('yt_dlp.extractor.dtube',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\dtube.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.duboku',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\duboku.py',
    'PYMODULE'),
   ('yt_dlp.extractor.dumpert',
    'C:\\Users\\Matt '
@@ -3735,14 +3671,6 @@
   ('yt_dlp.extractor.eggs',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\eggs.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.eighttracks',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\eighttracks.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.eitb',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\eitb.py',
    'PYMODULE'),
   ('yt_dlp.extractor.elementorembed',
    'C:\\Users\\Matt '
@@ -3832,10 +3760,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\extractors.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.eyedotv',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\eyedotv.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.facebook',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\facebook.py',
@@ -3867,6 +3791,10 @@
   ('yt_dlp.extractor.fifa',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\fifa.py',
+   'PYMODULE'),
+  ('yt_dlp.extractor.filmarchiv',
+   'C:\\Users\\Matt '
+   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\filmarchiv.py',
    'PYMODULE'),
   ('yt_dlp.extractor.filmon',
    'C:\\Users\\Matt '
@@ -3936,10 +3864,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\francaisfacile.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.franceinter',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\franceinter.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.francetv',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\francetv.py',
@@ -3963,10 +3887,6 @@
   ('yt_dlp.extractor.frontro',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\frontro.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.fujitv',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\fujitv.py',
    'PYMODULE'),
   ('yt_dlp.extractor.funk',
    'C:\\Users\\Matt '
@@ -4084,10 +4004,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\godtube.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.gofile',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\gofile.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.golem',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\golem.py',
@@ -4099,10 +4015,6 @@
   ('yt_dlp.extractor.googledrive',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\googledrive.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.googlepodcasts',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\googlepodcasts.py',
    'PYMODULE'),
   ('yt_dlp.extractor.googlesearch',
    'C:\\Users\\Matt '
@@ -4116,17 +4028,9 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\gopro.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.goshgay',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\goshgay.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.gotostage',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\gotostage.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.gputechconf',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\gputechconf.py',
    'PYMODULE'),
   ('yt_dlp.extractor.graspop',
    'C:\\Users\\Matt '
@@ -4175,10 +4079,6 @@
   ('yt_dlp.extractor.hitrecord',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\hitrecord.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.hketv',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\hketv.py',
    'PYMODULE'),
   ('yt_dlp.extractor.hollywoodreporter',
    'C:\\Users\\Matt '
@@ -4252,10 +4152,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\idagio.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.idolplus',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\idolplus.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.ign',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\ign.py',
@@ -4308,10 +4204,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\internazionale.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.internetvideoarchive',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\internetvideoarchive.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.iprima',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\iprima.py',
@@ -4355,10 +4247,6 @@
   ('yt_dlp.extractor.ixigua',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\ixigua.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.izlesene',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\izlesene.py',
    'PYMODULE'),
   ('yt_dlp.extractor.jamendo',
    'C:\\Users\\Matt '
@@ -4444,10 +4332,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\kika.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.kinja',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\kinja.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.kinopoisk',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\kinopoisk.py',
@@ -4459,10 +4343,6 @@
   ('yt_dlp.extractor.kompas',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\kompas.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.koo',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\koo.py',
    'PYMODULE'),
   ('yt_dlp.extractor.krasview',
    'C:\\Users\\Matt '
@@ -4584,10 +4464,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\livejournal.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.livestream',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\livestream.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.livestreamfails',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\livestreamfails.py',
@@ -4595,6 +4471,10 @@
   ('yt_dlp.extractor.lnk',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\lnk.py',
+   'PYMODULE'),
+  ('yt_dlp.extractor.locipo',
+   'C:\\Users\\Matt '
+   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\locipo.py',
    'PYMODULE'),
   ('yt_dlp.extractor.loco',
    'C:\\Users\\Matt '
@@ -4620,10 +4500,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\lumni.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.lynda',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\lynda.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.maariv',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\maariv.py',
@@ -4648,10 +4524,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\mangomolo.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.manoto',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\manoto.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.manyvids',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\manyvids.py',
@@ -4671,6 +4543,10 @@
   ('yt_dlp.extractor.masters',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\masters.py',
+   'PYMODULE'),
+  ('yt_dlp.extractor.matchitv',
+   'C:\\Users\\Matt '
+   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\matchitv.py',
    'PYMODULE'),
   ('yt_dlp.extractor.matchtv',
    'C:\\Users\\Matt '
@@ -4752,17 +4628,9 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\microsoftembed.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.microsoftstream',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\microsoftstream.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.minds',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\minds.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.minoto',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\minoto.py',
    'PYMODULE'),
   ('yt_dlp.extractor.mir24tv',
    'C:\\Users\\Matt '
@@ -4808,17 +4676,9 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\mojevideo.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.mojvideo',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\mojvideo.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.monstercat',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\monstercat.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.motherless',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\motherless.py',
    'PYMODULE'),
   ('yt_dlp.extractor.motorsport',
    'C:\\Users\\Matt '
@@ -4827,14 +4687,6 @@
   ('yt_dlp.extractor.moviepilot',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\moviepilot.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.moview',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\moview.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.moviezine',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\moviezine.py',
    'PYMODULE'),
   ('yt_dlp.extractor.movingimage',
    'C:\\Users\\Matt '
@@ -4863,10 +4715,6 @@
   ('yt_dlp.extractor.musescore',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\musescore.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.musicdex',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\musicdex.py',
    'PYMODULE'),
   ('yt_dlp.extractor.mux',
    'C:\\Users\\Matt '
@@ -4944,10 +4792,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\nekohacker.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.nerdcubed',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\nerdcubed.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.nest',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\nest.py',
@@ -4959,10 +4803,6 @@
   ('yt_dlp.extractor.neteasemusic',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\neteasemusic.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.netverse',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\netverse.py',
    'PYMODULE'),
   ('yt_dlp.extractor.netzkino',
    'C:\\Users\\Matt '
@@ -4979,10 +4819,6 @@
   ('yt_dlp.extractor.newsy',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\newsy.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.nextmedia',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\nextmedia.py',
    'PYMODULE'),
   ('yt_dlp.extractor.nexx',
    'C:\\Users\\Matt '
@@ -5128,10 +4964,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\nuevo.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.nuum',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\nuum.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.nuvid',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\nuvid.py',
@@ -5172,6 +5004,10 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\olympics.py',
    'PYMODULE'),
+  ('yt_dlp.extractor.omnyfm',
+   'C:\\Users\\Matt '
+   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\omnyfm.py',
+   'PYMODULE'),
   ('yt_dlp.extractor.on24',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\on24.py',
@@ -5196,10 +5032,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\onet.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.onionstudios',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\onionstudios.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.onsen',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\onsen.py',
@@ -5215,10 +5047,6 @@
   ('yt_dlp.extractor.openrec',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\openrec.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.ora',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\ora.py',
    'PYMODULE'),
   ('yt_dlp.extractor.orf',
    'C:\\Users\\Matt '
@@ -5239,6 +5067,10 @@
   ('yt_dlp.extractor.palcomp3',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\palcomp3.py',
+   'PYMODULE'),
+  ('yt_dlp.extractor.pandatv',
+   'C:\\Users\\Matt '
+   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\pandatv.py',
    'PYMODULE'),
   ('yt_dlp.extractor.panopto',
    'C:\\Users\\Matt '
@@ -5332,14 +5164,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\pinterest.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.piramidetv',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\piramidetv.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.planetmarathi',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\planetmarathi.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.platzi',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\platzi.py',
@@ -5347,10 +5171,6 @@
   ('yt_dlp.extractor.playerfm',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\playerfm.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.playplustv',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\playplustv.py',
    'PYMODULE'),
   ('yt_dlp.extractor.playsuisse',
    'C:\\Users\\Matt '
@@ -5360,10 +5180,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\playtvak.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.playwire',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\playwire.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.pluralsight',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\pluralsight.py',
@@ -5371,10 +5187,6 @@
   ('yt_dlp.extractor.plutotv',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\plutotv.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.plvideo',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\plvideo.py',
    'PYMODULE'),
   ('yt_dlp.extractor.plyr',
    'C:\\Users\\Matt '
@@ -5456,10 +5268,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\projectveritas.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.prosiebensat1',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\prosiebensat1.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.prx',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\prx.py',
@@ -5467,10 +5275,6 @@
   ('yt_dlp.extractor.puhutv',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\puhutv.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.puls4',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\puls4.py',
    'PYMODULE'),
   ('yt_dlp.extractor.pyvideo',
    'C:\\Users\\Matt '
@@ -5499,10 +5303,6 @@
   ('yt_dlp.extractor.radiocanada',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\radiocanada.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.radiocomercial',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\radiocomercial.py',
    'PYMODULE'),
   ('yt_dlp.extractor.radiode',
    'C:\\Users\\Matt '
@@ -5568,10 +5368,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\reddit.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.redge',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\redge.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.redgifs',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\redgifs.py',
@@ -5596,10 +5392,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\reverbnation.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.rheinmaintv',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\rheinmaintv.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.ridehome',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\ridehome.py',
@@ -5607,10 +5399,6 @@
   ('yt_dlp.extractor.rinsefm',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\rinsefm.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.rmcdecouverte',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\rmcdecouverte.py',
    'PYMODULE'),
   ('yt_dlp.extractor.rockstargames',
    'C:\\Users\\Matt '
@@ -5764,10 +5552,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\scrolller.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.scte',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\scte.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.sejmpl',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\sejmpl.py',
@@ -5783,10 +5567,6 @@
   ('yt_dlp.extractor.senategov',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\senategov.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.sendtonews',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\sendtonews.py',
    'PYMODULE'),
   ('yt_dlp.extractor.servus',
    'C:\\Users\\Matt '
@@ -5811,10 +5591,6 @@
   ('yt_dlp.extractor.sharepoint',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\sharepoint.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.sharevideos',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\sharevideos.py',
    'PYMODULE'),
   ('yt_dlp.extractor.shemaroome',
    'C:\\Users\\Matt '
@@ -5884,10 +5660,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\snapchat.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.snotr',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\snotr.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.softwhiteunderbelly',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\softwhiteunderbelly.py',
@@ -5940,10 +5712,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\spreaker.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.springboardplatform',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\springboardplatform.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.sproutvideo',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\sproutvideo.py',
@@ -5964,10 +5732,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\stageplus.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.stanfordoc',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\stanfordoc.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.startrek',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\startrek.py',
@@ -5979,10 +5743,6 @@
   ('yt_dlp.extractor.steam',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\steam.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.stitcher',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\stitcher.py',
    'PYMODULE'),
   ('yt_dlp.extractor.storyfire',
    'C:\\Users\\Matt '
@@ -6003,10 +5763,6 @@
   ('yt_dlp.extractor.streetvoice',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\streetvoice.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.stretchinternet',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\stretchinternet.py',
    'PYMODULE'),
   ('yt_dlp.extractor.stripchat',
    'C:\\Users\\Matt '
@@ -6036,14 +5792,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\svt.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.swearnet',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\swearnet.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.syvdk',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\syvdk.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.sztvhu',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\sztvhu.py',
@@ -6055,6 +5803,10 @@
   ('yt_dlp.extractor.taptap',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\taptap.py',
+   'PYMODULE'),
+  ('yt_dlp.extractor.tarangplus',
+   'C:\\Users\\Matt '
+   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\tarangplus.py',
    'PYMODULE'),
   ('yt_dlp.extractor.tass',
    'C:\\Users\\Matt '
@@ -6140,10 +5892,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\telewebion.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.tempo',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\tempo.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.tencent',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\tencent.py',
@@ -6168,6 +5916,10 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\tfo.py',
    'PYMODULE'),
+  ('yt_dlp.extractor.thechosen',
+   'C:\\Users\\Matt '
+   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\thechosen.py',
+   'PYMODULE'),
   ('yt_dlp.extractor.theguardian',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\theguardian.py',
@@ -6175,10 +5927,6 @@
   ('yt_dlp.extractor.thehighwire',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\thehighwire.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.theholetv',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\theholetv.py',
    'PYMODULE'),
   ('yt_dlp.extractor.theintercept',
    'C:\\Users\\Matt '
@@ -6259,18 +6007,6 @@
   ('yt_dlp.extractor.toypics',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\toypics.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.traileraddict',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\traileraddict.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.triller',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\triller.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.trovo',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\trovo.py',
    'PYMODULE'),
   ('yt_dlp.extractor.trtcocuk',
    'C:\\Users\\Matt '
@@ -6376,6 +6112,10 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\tvnoe.py',
    'PYMODULE'),
+  ('yt_dlp.extractor.tvo',
+   'C:\\Users\\Matt '
+   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\tvo.py',
+   'PYMODULE'),
   ('yt_dlp.extractor.tvopengr',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\tvopengr.py',
@@ -6387,10 +6127,6 @@
   ('yt_dlp.extractor.tvplay',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\tvplay.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.tvplayer',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\tvplayer.py',
    'PYMODULE'),
   ('yt_dlp.extractor.tvw',
    'C:\\Users\\Matt '
@@ -6439,10 +6175,6 @@
   ('yt_dlp.extractor.ukcolumn',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\ukcolumn.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.uktvplay',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\uktvplay.py',
    'PYMODULE'),
   ('yt_dlp.extractor.uliza',
    'C:\\Users\\Matt '
@@ -6500,10 +6232,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\ustudio.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.utreon',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\utreon.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.varzesh3',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\varzesh3.py',
@@ -6544,21 +6272,9 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\videocampus_sachsen.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.videodetective',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\videodetective.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.videofyme',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\videofyme.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.videoken',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\videoken.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.videomore',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\videomore.py',
    'PYMODULE'),
   ('yt_dlp.extractor.videopress',
    'C:\\Users\\Matt '
@@ -6596,10 +6312,6 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\vimeo.py',
    'PYMODULE'),
-  ('yt_dlp.extractor.vimm',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\vimm.py',
-   'PYMODULE'),
   ('yt_dlp.extractor.viously',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\viously.py',
@@ -6607,6 +6319,10 @@
   ('yt_dlp.extractor.viqeo',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\viqeo.py',
+   'PYMODULE'),
+  ('yt_dlp.extractor.visir',
+   'C:\\Users\\Matt '
+   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\visir.py',
    'PYMODULE'),
   ('yt_dlp.extractor.viu',
    'C:\\Users\\Matt '
@@ -6619,10 +6335,6 @@
   ('yt_dlp.extractor.vocaroo',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\vocaroo.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.vodpl',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\vodpl.py',
    'PYMODULE'),
   ('yt_dlp.extractor.vodplatform',
    'C:\\Users\\Matt '
@@ -6655,14 +6367,6 @@
   ('yt_dlp.extractor.vtv',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\vtv.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.vuclip',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\vuclip.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.vvvvid',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\vvvvid.py',
    'PYMODULE'),
   ('yt_dlp.extractor.walla',
    'C:\\Users\\Matt '
@@ -6707,10 +6411,6 @@
   ('yt_dlp.extractor.wevidi',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\wevidi.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.weyyak',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\weyyak.py',
    'PYMODULE'),
   ('yt_dlp.extractor.whowatch',
    'C:\\Users\\Matt '
@@ -6791,10 +6491,6 @@
   ('yt_dlp.extractor.xnxx',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\xnxx.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.xstream',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\xstream.py',
    'PYMODULE'),
   ('yt_dlp.extractor.xvideos',
    'C:\\Users\\Matt '
@@ -6980,6 +6676,10 @@
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\zaiko.py',
    'PYMODULE'),
+  ('yt_dlp.extractor.zan',
+   'C:\\Users\\Matt '
+   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\zan.py',
+   'PYMODULE'),
   ('yt_dlp.extractor.zapiks',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\zapiks.py',
@@ -6991,10 +6691,6 @@
   ('yt_dlp.extractor.zdf',
    'C:\\Users\\Matt '
    'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\zdf.py',
-   'PYMODULE'),
-  ('yt_dlp.extractor.zee5',
-   'C:\\Users\\Matt '
-   'Golden\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\yt_dlp\\extractor\\zee5.py',
    'PYMODULE'),
   ('yt_dlp.extractor.zeenews',
    'C:\\Users\\Matt '
